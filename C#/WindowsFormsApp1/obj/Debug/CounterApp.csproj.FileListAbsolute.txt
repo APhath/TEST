@@ -1,0 +1,9 @@
+C:\Users\Emanresu\Desktop\VISUAL_C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\CounterApp.exe.config
+C:\Users\Emanresu\Desktop\VISUAL_C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\CounterApp.exe
+C:\Users\Emanresu\Desktop\VISUAL_C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\CounterApp.pdb
+C:\Users\Emanresu\Desktop\VISUAL_C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Emanresu\Desktop\VISUAL_C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CounterApp.Properties.Resources.resources
+C:\Users\Emanresu\Desktop\VISUAL_C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CounterApp.csproj.GenerateResource.cache
+C:\Users\Emanresu\Desktop\VISUAL_C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CounterApp.csproj.CoreCompileInputs.cache
+C:\Users\Emanresu\Desktop\VISUAL_C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CounterApp.exe
+C:\Users\Emanresu\Desktop\VISUAL_C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CounterApp.pdb

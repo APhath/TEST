@@ -1,0 +1,9 @@
+C:\Users\Emanresu\Desktop\VISUAL_C#\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\SayHelloApp.exe.config
+C:\Users\Emanresu\Desktop\VISUAL_C#\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\SayHelloApp.exe
+C:\Users\Emanresu\Desktop\VISUAL_C#\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\SayHelloApp.pdb
+C:\Users\Emanresu\Desktop\VISUAL_C#\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Emanresu\Desktop\VISUAL_C#\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\SayHelloApp.Properties.Resources.resources
+C:\Users\Emanresu\Desktop\VISUAL_C#\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\SayHelloApp.csproj.GenerateResource.cache
+C:\Users\Emanresu\Desktop\VISUAL_C#\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\SayHelloApp.csproj.CoreCompileInputs.cache
+C:\Users\Emanresu\Desktop\VISUAL_C#\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\SayHelloApp.exe
+C:\Users\Emanresu\Desktop\VISUAL_C#\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\SayHelloApp.pdb
